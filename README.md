@@ -1,2 +1,0 @@
-# Hiptest
-hiptest testing
