@@ -1,0 +1,13 @@
+---
+- name: should return the average
+  uid: 962b0ca8-8e89-43f6-91ab-95d203009aa6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: should return the maximum number
+  uid: 86fd3567-5a8e-4034-826c-e2cf6b7754d2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'should return the minimum number '
+  uid: f48feb52-641a-41d3-bde2-2578c53fba58
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
